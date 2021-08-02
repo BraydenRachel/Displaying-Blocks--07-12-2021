@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(209, 192, 167);
+}
+.HContainer{
+    text-align: center;
+    margin-top: 10px;
+}
+.head-img{
+    background-color: white;
+    height: 50px;
+    width: 100px;
+}
+.head{
+    display: inline;
+}
+.BContainer{
+    margin: 5px;
+    text-align: center;
+    position: relative;
+}
+.row{
+    display: block;
+    margin-bottom: 5px;
+    white-space: nowrap;
+}
+.blue-box{
+    padding: 10px;
+    display: inline-block;
+    border: black 3px solid;
+    background-color: skyblue;
+}
+.red-box{
+    padding: 10px;
+    display: inline-block;
+    border: black 3px solid;
+    background-color: tomato;
+}
+.img-box{
+    width: 100px;
+    height: 100px
+}
